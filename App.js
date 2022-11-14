@@ -18,7 +18,7 @@ function handlePress4() {
 export default function App() {
   return (
     <ScrollView style={styles.container}>
-      <Text style={styles.heading1}>Bookshop</Text>
+      <Text style={styles.heading1}>Bookshopke</Text>
       <Image style={styles.tileImg} source={require('./assets/shopping-cart.png')}/>
       <View style={styles.tilesContainer}></View>
       <View style={styles.tile}>
